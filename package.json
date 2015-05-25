@@ -2,8 +2,8 @@
   "name": "hubot",
   "version": "0.0.0",
   "private": true,
-  "author": "Ruben Espinosa <rderoldan1@gmail.com>",
-  "description": "Hubot of CollectiveLearning",
+  "author": "Yonatan Valencia <yvalenta@gmail.com>",
+  "description": "Hubot of sc-visionamos",
   "dependencies": {
     "hubot": "^2.11.4",
     "hubot-diagnostics": "0.0.1",
